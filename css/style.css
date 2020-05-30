@@ -1521,3 +1521,6 @@ margin-top: 7em;
 .blog .pad-m .pad-top-l .powrMark .text-center{
 display:none !important;
 }
+
+#appView .powrMark{
+background: none !important;}
